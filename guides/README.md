@@ -1,4 +1,8 @@
-**Question to answer:** What jurisdiction does the FDA have over open source projects?
+# FDA Guides
+
+The documents in this directory are meant to be general guidelines for navigating and reading the FDA's regulatory guidelines. **Disclaimer:** this is in no way an official interpretation of the FDA's stances. Please refer to the [FDA website](http://www.fda.gov) for official documentation and if you have any questions, contact the FDA through the appropriate channels.
+
+- - -
 
 **Useful Links**
 
@@ -9,7 +13,7 @@
 
 - - -
 
-# Outline
+## Outline
 
 Apps and devices that the FDA will regulate:
 
