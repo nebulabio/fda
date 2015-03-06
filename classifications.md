@@ -1,8 +1,3 @@
-My take on the history
------------------------------------
-
-It seems as if the FDA was a lot less tough for a long time. I mean basically it was not a force to be reckoned with till the late 70s. Since then regulations are often updated. It would be interesting to see their funding over the same time period.
-
 [Medical Device Databases](http://www.fda.gov/medicaldevices/deviceregulationandguidance/databases/default.htm)
 
 Classification
