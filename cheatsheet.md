@@ -19,17 +19,17 @@
   <dd>Means something is suggested or recommended, but not required.</dd>
 
   <dt>Intended use</dt>
-  <dd>"refers to the 'objective intent' of those responsible for labeling the product. Intent is determined by such persons' expressions or may be shown by the circumstances surrounding the distribution of the article" ([DN1723&sect;II](http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm253307.htm))</dd>
+  <dd>"refers to the 'objective intent' of those responsible for labeling the product. Intent is determined by such persons' expressions or may be shown by the circumstances surrounding the distribution of the article" (<a href="http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm253307.htm">DN1723&sect;II</a>)</dd>
 </dl>
 
 ## Abbreviations
 
 <dl>
   <dt>CFR</dt>
-  <dd>[Code of Federal Regulations](http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR). A common citation you'll see. It is the "codification of the general and permanent rules" published by the government. You can browse an online version at the [eCFR.gov website](http://www.ecfr.gov/cgi-bin/ECFR?page=browse).</dd>
+  <dd><a href="http://www.gpo.gov/fdsys/browse/collectionCfr.action?collectionCode=CFR">Code of Federal Regulations</a>. A common citation you'll see. It is the "codification of the general and permanent rules" published by the government. You can browse an online version at the <a href="http://www.ecfr.gov/cgi-bin/ECFR?page=browse">eCFR.gov website</a>.</dd>
 
   <dt>IVDs</dt>
-  <dd>*in vitro* diagnostic devices.</dd>
+  <dd><i>in vitro</i> diagnostic devices.</dd>
 
   <dt>RUO and IUO</dt>
   <dd>Research Use Only, Investigational Use Only</dd>
