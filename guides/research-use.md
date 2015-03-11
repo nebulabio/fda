@@ -1,10 +1,19 @@
 Answering the question: What does it mean for devices to be for "research use only?"
 
+> It is the purpose of this subsection to encourage, to the extent consistent with the protection of the public health and safety and with ethical standards, the discovery and development of useful devices intended for human use and to that end to maintain optimum freedom for scientific investigators in their pursuit of that purpose. [<cite>21 USC &sect;360j(g)</cite>](http://www.gpo.gov/fdsys/pkg/USCODE-2010-title21/html/USCODE-2010-title21-chap9-subchapV-partA-sec360j.htm)
+
+
 # Distribution of In Vitro Diagnostic Products Labeled for Research Use Only or Investigational Use Only
 
 [Source](http://www.fda.gov/medicaldevices/deviceregulationandguidance/guidancedocuments/ucm253307.htm)
 
 ## &sect; Requirements for RUO and IUO IVD products
+
+## Labeling Requirements
+
+In order to be considered a "Research Use Only" device, you must do a few things:
+
+* FIXME: add list from handwritten notes
 
 Regulatory sections:
 
@@ -31,3 +40,6 @@ FDA's "Distribution of In Vitro Diagnostic Products Labaled for Reserach Use Onl
 
 > FIXME: add handwritten notes
 
+# See Also
+
+* A drug/device is considered mislabeled if... [21 USC &sect;352](http://www.gpo.gov/fdsys/pkg/USCODE-2010-title21/html/USCODE-2010-title21-chap9-subchapV-partA-sec352.htm)
