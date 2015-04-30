@@ -1,14 +1,18 @@
 **Question to answer:** What jurisdiction does the FDA have over open source projects?
+
 **Question to answer:** What is the FDA's stance on open source medical hardware and software?
 
 - - -
 
 # What does the FDA think of open source projects?
 
-There are not many open-source medical projects in existence currently; if they do exist, they tend to focus on academic use-cases, such as the [Cheapstat][1], [OpenPCR][2]. Other "maker" devices, such as the [ehealth sensor kit](http://www.cooking-hacks.com/ehealth-sensors-complete-kit-biometric-medical-arduino-raspberry-pi), are not usable for anything except the most basic of tasks, and are not even close to being under the guidance of the FDA.
+The FDA is awar of open-source medical devices in existence currently. Devices such as these however are focused almost exclusively on educational and academic use, and are designed to be less than the most user-friendly devices. Some noteable OSS and OSH projects include:
 
-[1]: http://web.chem.ucsb.edu/~kwp/cheapstat/
-[2]: http://openpcr.org/
+* [Cheapstat](http://web.chem.ucsb.edu/~kwp/cheapstat/) - chemical analysis
+* [OpenPCR](http://openpcr.org/) - DNA duplication
+* [ehealth sensor kit](http://www.cooking-hacks.com/ehealth-sensors-complete-kit-biometric-medical-arduino-raspberry-pi) - health sensor for Arduino and RPi
+* [Nightscout](http://www.nightscout.info/) - Software for Dexcom and other glucose monitors
+* [OpenBCI](http://www.openbci.com/) - Open source EEG, EMG, and EKG
 
 The best resource for the FDA's opinion is probably the [Nightscout project](https://nightscout.github.io/). Their [fda-presubmission](https://github.com/nightscout/fda-presubmission) repository documents their attempt at open discussion with the FDA regarding the legality of the Nightscout CGM system. The even had a [meeting on October 8, 2014](https://github.com/nightscout/fda-presubmission/blob/master/source/07-minutes.rst) with the FDA - the minutes from that meeting are probably the most useful and up-to-date resource on the FDA's thinking (when taken in conjunction with the official FDA documents, of course.
 
