@@ -26,3 +26,10 @@ Some quotes:
 
 > The group discussed FDA’s desire that there be a single responsible party to ensure that nothing falls through the cracks. The FDA emphasized the need for one party to take responsibility. For example, change control to determine when updates were ready to be implemented to general users, what problems need to be addressed and on what timeline, etc. should be adequately addressed.
 
+- - -
+
+More to come:
+
+* How does an OS project handle discussions with the FDA?
+* What, if any, paperwork and notifications must an open source project process for the FDA?
+* ...
