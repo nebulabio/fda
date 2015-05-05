@@ -13,3 +13,5 @@ FDA documents are reference by their document number (DN) and section ([&sect;](
 ## How to use this
 
 Honestly, just start poking around the Markdown files. We try to link to all sources, so you'll get a lot from just reading our notes and following source links. We plan to turn this into more structured and actionable data in the future. And we are accepting pull requests if you'd like to contribute to the knowledge base :)
+
+**ProTip:** Use [Prose.io](http://prose.io/#nebulabio/fda) to edit and read these notes in your browser.
